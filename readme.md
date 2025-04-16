@@ -94,7 +94,7 @@ O script irá:
 ```
 spam-classifier/
 ├── spam_classifier.py     # Script principal
-├── spam.csv               # Dataset (não incluído no repositório)
+├── spam.csv               # Dataset 
 ├── stopwords.txt          # Lista de stopwords
 ├── requirements.txt       # Dependências do projeto
 ├── README.md              # Este arquivo
