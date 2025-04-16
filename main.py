@@ -16,7 +16,6 @@ nltk.download('averaged_perceptron_tagger')
 
 df = pd.read_csv('spam.csv')
 
-# Ajuste caso as colunas tenham nomes diferentes
 if 'CATEGORY' not in df.columns and 'category' in df.columns:
     df['CATEGORY'] = df['category']
 if 'MESSAGE' not in df.columns and 'message' in df.columns:
