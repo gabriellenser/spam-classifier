@@ -103,12 +103,7 @@ spam-classifier/
 
 ## Resultados
 
-O modelo gera uma matriz de confusão e imprime as métricas de desempenho no console. Além disso, exibe 100 exemplos aleatórios de classificações realizadas, permitindo uma análise qualitativa do desempenho.
+O modelo gera uma matriz de confusão e imprime as métricas de desempenho no console. Além disso, exibe x exemplos aleatórios de classificações realizadas, permitindo uma análise qualitativa do desempenho.
 
-## Contribuição
 
-Sinta-se à vontade para contribuir com melhorias no modelo, no processo de pré-processamento ou na documentação. Abra um issue ou envie um pull request.
 
-## Licença
-
-[Especifique sua licença aqui, e.g., MIT, GPL, etc.]
